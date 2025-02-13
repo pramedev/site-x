@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tutorial/callouts/"}
+{"dg-publish":true,"permalink":"/tutorial/callouts/","tags":["gardenEntry"]}
 ---
 
 > [!tip] Callouts can have custom titles
